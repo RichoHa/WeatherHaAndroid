@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeatherOutside</string>
+    <string name="dateCurrent">Date</string>
+    <string name="locationCurrent">Location</string>
+    <string name="timeCurrent">Time</string>
+    <string name="tempCurrent">Temperature</string>
+    <string name="logoCurrent">Logo</string>
+</resources>
