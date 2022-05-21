@@ -29,6 +29,10 @@ class MainActivity : AppCompatActivity() {
 
         //Current Weather Details
         val weatherAPI = "f0fc3f507fb1b69f7ba2a0f297169820"
+        val weatherURL = api.openweathermap.org/data/2.5/forecast?q={city name}&appid={API key}
+        //Another API option
+        //api.openweathermap.org/data/2.5/forecast?lat=35&lon=139&appid={API key}
+
         //check coroutine library
 //        dateTV.setOnClickListener{
 //            Toast.makeText(applicationContext, dateTV.text, Toast.LENGTH_SHORT).show()
